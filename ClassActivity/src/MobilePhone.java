@@ -17,7 +17,6 @@ public class MobilePhone {
 	public String call(String phoneNumber) {
 		return "I'm calling: " + phoneNumber;
 		
-		
 	}
 	public String text(String textMessage) {
 		return textMessage + "\nSent!";
